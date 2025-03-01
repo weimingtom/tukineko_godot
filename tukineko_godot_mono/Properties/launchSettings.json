@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "tukineko_godot_mono": {
+      "commandName": "Project"
+    },
+    "godot": {
+      "commandName": "Executable",
+      "executablePath": "D:\\work_godot\\Godot_v4.3-stable_mono_win64\\Godot_v4.3-stable_mono_win64.exe",
+      "commandLineArgs": "--path D:\\work_godot\\projects\\tukineko_godot_mono",
+      "workingDirectory": "D:\\work_godot\\projects\\tukineko_godot_mono"
+    }
+  }
+}
